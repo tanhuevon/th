@@ -1,11 +1,7 @@
 "pool_list" :
 [
-        {"pool_address" : "cryptonightv7.usa.nicehash.com:3363", "wallet_address" : "3E9xqdPmRKXryi4cJRNvMZt4LP3EEgQstC.digitalocean", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
-         {"pool_address" : "cryptonightv7.eu.nicehash.com:3363", "wallet_address" : "3E9xqdPmRKXryi4cJRNvMZt4LP3EEgQstC.digitalocean", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
-         {"pool_address" : "cryptonightv7.hk.nicehash.com:3363", "wallet_address" : "3E9xqdPmRKXryi4cJRNvMZt4LP3EEgQstC.digitalocean", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
-         {"pool_address" : "cryptonightv7.jp.nicehash.com:3363", "wallet_address" : "3E9xqdPmRKXryi4cJRNvMZt4LP3EEgQstC.digitalocean", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
-         {"pool_address" : "cryptonightv7.in.nicehash.com:3363", "wallet_address" : "3E9xqdPmRKXryi4cJRNvMZt4LP3EEgQstC.digitalocean", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
-         {"pool_address" : "cryptonightv7.br.nicehash.com:3363", "wallet_address" : "3E9xqdPmRKXryi4cJRNvMZt4LP3EEgQstC.digitalocean", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },   
+        {"pool_address" : "cryptonightv7.usa.nicehash.com:3363", "wallet_address" : "3E9xqdPmRKXryi4cJRNvMZt4LP3EEgQstC.digitalocean", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 2 },
+         {"pool_address" : "cryptonightv7.eu.nicehash.com:3363", "wallet_address" : "3E9xqdPmRKXryi4cJRNvMZt4LP3EEgQstC.digitalocean", "rig_id" : "", "pool_password" : "x", "use_nicehash" : true, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },       
         {"pool_address" : "pool.supportxmr.com:3333", "wallet_address" : "43P5Rt8Rnoi4RDvP4FWEWtLyJN9RV9MQJCohgmHgkLLHBJSoRo96SAvjXqrT3anyZ22j7DEE74GkbVcQFyH2nNiC3fXbps4", "rig_id" : "", "pool_password" : "142.93.11.195", "use_nicehash" : false, "use_tls" : false, "tls_fingerprint" : "", "pool_weight" : 1 },
 ],
 
